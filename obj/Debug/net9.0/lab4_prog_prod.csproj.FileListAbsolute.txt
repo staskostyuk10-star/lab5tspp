@@ -1,0 +1,14 @@
+C:\Users\Dell\Downloads\lab4_prog_prod\bin\Debug\net9.0\lab4_prog_prod.exe
+C:\Users\Dell\Downloads\lab4_prog_prod\bin\Debug\net9.0\lab4_prog_prod.deps.json
+C:\Users\Dell\Downloads\lab4_prog_prod\bin\Debug\net9.0\lab4_prog_prod.runtimeconfig.json
+C:\Users\Dell\Downloads\lab4_prog_prod\bin\Debug\net9.0\lab4_prog_prod.dll
+C:\Users\Dell\Downloads\lab4_prog_prod\bin\Debug\net9.0\lab4_prog_prod.pdb
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\lab4_prog_prod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\lab4_prog_prod.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\lab4_prog_prod.AssemblyInfo.cs
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\lab4_prog_prod.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\lab4_prog_prod.dll
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\refint\lab4_prog_prod.dll
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\lab4_prog_prod.pdb
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\lab4_prog_prod.genruntimeconfig.cache
+C:\Users\Dell\Downloads\lab4_prog_prod\obj\Debug\net9.0\ref\lab4_prog_prod.dll
